@@ -2,8 +2,8 @@
 dataset of Multimodal price prediction article
 
 
-URL = https://arxiv.org/pdf/2007.05056.pdf
+DOI = [10.1007/s40745-021-00326-z](https://doi.org/10.1007/s40745-021-00326-z)
 
 # Article's Abstract:
 
-Valorization is one of the most heated discussions in the business community, and commoditiesvalorization is one subset in this task. Features of a product is an essential characteristic in valorizationand features are categorized into two classes:  graphical and non-graphical.  Nowadays, the valueof products is measured by price. The goal of this research is to achieve an arrangement to predictthe price of a product based on specifications of that.  We propose five deep learning models topredict the price range of a product, one unimodal and four multimodal systems. The multimodalmethods predict based on the image and non-graphical specification of product.  As a platform toevaluate the methods, a cellphones dataset has been gathered from GSMArena. In proposed methods,convolutional neural network is an infrastructure. The experimental results show 88.3% F1-score inthe best method.
+Price prediction is one of the examples related to forecasting tasks and is a project based on data science. Price prediction analyzes data and predicts the cost of new products. The goal of this research is to achieve an arrangement to predict the price of a cellphone based on its specifications. So, five deep learning models are proposed to predict the price range of a cellphone, one unimodal and four multimodal approaches. The multimodal methods predict the prices based on the graphical and non-graphical features of cellphones that have an important effect on their valorizations. Also, to evaluate the efficiency of the proposed methods, a cellphone dataset has been gathered from GSMArena. The experimental results show 88.3% F1-score, which confirms that multimodal learning leads to more accurate predictions than state-of-the-art techniques.
