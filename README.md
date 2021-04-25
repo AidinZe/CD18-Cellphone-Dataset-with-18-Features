@@ -1,4 +1,6 @@
-# Multimodal_price_prediction_dataset
+# CD18: Cellphone Dataset with 18 Features
+
+## Multimodal_price_prediction_dataset
 dataset of Multimodal price prediction article
 
 
